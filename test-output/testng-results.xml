@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium Easy Site Practices" duration-ms="26553" started-at="2020-05-18T15:35:28Z" finished-at="2020-05-18T15:35:54Z">
+    <groups>
+    </groups>
+    <test name="Selenium Easy Site Practices" duration-ms="26553" started-at="2020-05-18T15:35:28Z" finished-at="2020-05-18T15:35:54Z">
+      <class name="SETests.HomepageTest">
+        <test-method status="PASS" signature="initialisation()[pri:0, instance:SETests.HomepageTest@3d8c7aca]" name="initialisation" is-config="true" duration-ms="21917" started-at="2020-05-18T15:35:28Z" finished-at="2020-05-18T15:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method status="PASS" signature="HomeTest()[pri:0, instance:SETests.HomepageTest@3d8c7aca]" name="HomeTest" duration-ms="272" started-at="2020-05-18T15:35:50Z" finished-at="2020-05-18T15:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:SETests.HomepageTest@3d8c7aca]" name="teardown" is-config="true" duration-ms="4212" started-at="2020-05-18T15:35:50Z" finished-at="2020-05-18T15:35:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SETests.HomepageTest -->
+    </test> <!-- Selenium Easy Site Practices -->
+  </suite> <!-- Selenium Easy Site Practices -->
+</testng-results>
