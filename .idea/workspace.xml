@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab338c55-55bc-4563-b4c7-a2fff035c33c" name="Default Changelist" comment="" />
+    <list default="true" id="ab338c55-55bc-4563-b4c7-a2fff035c33c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/testng-results.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1af9cOO0swIkXdkgK0YOMAjCIlW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="findjar.last.used.dir" value="$USER_HOME$/Documents" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/Selenium/commons-io-2.6/commons-io-2.6.jar!/" />
@@ -177,5 +180,16 @@
       <updated>1587115859854</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
